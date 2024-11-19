@@ -9,16 +9,16 @@ To improve efficiency, X Education aims to identify "Hot Leads"—those with the
 Your task is to build a logistic regression model to assign a lead score (0–100) to each lead. A higher score indicates a "hot" lead likely to convert, while a lower score indicates a "cold" lead. Additionally, the model should be flexible enough to adapt to future company needs and address specific challenges outlined separately. Be sure to include these aspects and your recommendations in the final presentation.
 
 ## Procedure
--.Importing inspecting the data
--.Data preparation
--.EDA
--.Dummy variable creation
--.Test-Train split
--.Feature scaling
--.Correlations
--.Model Building (RFE, R2, VIF, and p-values)
--.Model Evaluation
--.Making predictions on test set
+- Importing inspecting the data
+- Data preparation
+- EDA
+- Dummy variable creation
+- Test-Train split
+- Feature scaling
+- Correlations
+- Model Building (RFE, R2, VIF, and p-values)
+- Model Evaluation
+- Making predictions on test set
 
 ## File Details
 
