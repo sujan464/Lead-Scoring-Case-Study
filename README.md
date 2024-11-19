@@ -21,5 +21,9 @@ Your task is to build a logistic regression model to assign a lead score (0–10
 - Making predictions on test set
 
 ## File Details
-
-![image](https://github.com/user-attachments/assets/51990584-f7dc-4fc8-85a5-1f3ad5423d0f)
+- Leads.csv - dataset
+- Leads Data Dictionary.xlsx - file describing each column in the dataset
+- Lead Score Case Study.ipynb - jupyter notebook showing the code for model building
+- Lead_Scoring_Presentation.pdf - Final Presentation
+- Assignment_Subjective_Questions.pdf - answers to subjective questions
+- Lead Scoring Case Study Summary.pdf - summary describing the enitre model building activity
